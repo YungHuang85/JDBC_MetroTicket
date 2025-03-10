@@ -69,10 +69,10 @@
 
 2. 設定環境變數
 
-    確保Java Build Path 的Libraries導入 gson-2.11.0.jar 與 mssql-jdbc-12.8.1.jre11.jar
+    確保Java Build Path 的Libraries導入 gson-2.11.0.jar 與 mssql-jdbc-12.8.1.jre11.jar (jar位於jarLib資料夾)
 
 3. 啟動專案
 
-    1. 確保SQL資料表皆執行(可從DemoItemCSV導入csv, csv位於"臺北捷運系統票價資料"內)
+    --確保SQL資料表皆執行(可從DemoItemCSV導入csv, csv位於"臺北捷運系統票價資料"內)
 
-    2. 執行資料夾 TPEmetroTicket_exe內的 TPE_metroTicket.exe 執行檔即可使用. 
+    --執行資料夾 TPEmetroTicket_exe內的 TPE_metroTicket.exe 執行檔即可使用. 
