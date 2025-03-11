@@ -8,7 +8,7 @@
     -- 各站票價CRUD
     -- 資料輸出成Json或Excel檔案
 
-# 技術棧
+# 技術架構
 
     Java SE - 核心 Java 標準庫，提供基本的語言功能與 API
     JDK 17 - Java 開發工具包，使用 Eclipse Adoptium Zulu JDK 17
